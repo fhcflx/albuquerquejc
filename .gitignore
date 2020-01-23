@@ -2,3 +2,4 @@
 *.tif
 *.mp4
 !.gitignore
+!.travis.yml
