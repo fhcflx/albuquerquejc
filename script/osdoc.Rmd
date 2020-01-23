@@ -1,0 +1,32 @@
+
+# Resultados do projeto "TRATAMENTO OFF LABEL COM PROPRANOLOL EM CRIANÇAS E ADOLESCENTES COM HEMANGIOMA EM UM HOSPITAL PEDIÁTRICO TERCIÁRIO DE FORTALEZA"
+
+## Um caderno aberto de pesquisa
+
+### Francisco Hélder Cavalcante Félix, Centro Pediátrico do Câncer - Hospital Infantil Albert Sabin
+
+**Abstract:** Os resultados e análises foram colocados num repositório do serviço GitHub. O código sas análises foi checado com o serviço de integração contínua em nuvem Travis Ci e o resultado final publicado neste arquivo. Este arquivo traz tabelas, gráficos e texto mostrando os resultados do projeto. Foi elaborado em Rmarkdown, utilizando a linguagem de marcação simplificada Markdown com "pedaços" de código da linguagem estatística R entremeados. O arquivo foi avaliado pelo pacote rmarkdown e compilado para o formato pdf neste texto. Devido à integração contínua, pode ser atualizado em tempo real, enquanto dados novos são acrescentados.
+
+**Keywords:** hemangiomas, propranolol, estística escritiva, rmarkdown, integração contínua, ciência aberta
+
+`r format(Sys.time(), '%B %d, %Y')`
+
+## Introdução:
+
+A ciência aberta baseia-se principalmente na capacidade de divulgar (compartilhar) eletronicamente as informações coletadas (dados brutos) e produzidas (análises e seus resultados) de um projeto de pesquisa através da internet. Dessa forma, 2 consequências advém imediatamente:
+1 - Transparência da informação e do processo científicos, inclusive para públicos não técnicos.
+2 - Capacidade irrestrita de comentários, tanto por especialistas (análogo ã _revisão por pares_), quanto por não especialistas (que poderíamos chamar de *revisão cidadã*).
+
+O observador arguto já pode levantar a questão de que o controle de comentários numa plataforma é dos controladores daquele serviço, ou seja, é possível criar um canal de comunicação tipo "ciência aberta", porém unidirecional, sem recepção de comentários (ou pior, é possível censurá-los). Independentemente disso, os _comentários a uma publicação livremente disponível na internet_ podem ser publicados em *qualquer canal* sem relação com o canal original e referenciado ao primeiro. Ou seja, não há como verdadeiramente censurar comentários a uma publicação livre na internet.
+
+Outra característica importante da ciência aberta é a capacidade de *reuso* de informações, o que pode ser entendido como a principal utilidade social da ciência aberta. Esta característica simples tem o potencial de otimizar a produção científica a nível global. Bastaria isso para justificar a implementação em larga escala da ciência aberta. Outros benefícios podem ser descritos de forma ilimitada.
+
+Esta é a implementação de ciência aberta que criei, baseando-me largamente em projetos já existentes. Trata-se de um caderno de pesquisa aberto, armazenado num repositório remoto para o programa Git (existem vários), gerado através de um serviço de integração contínua (CI) em nuvem (vários idem) e com a estrutura de um pacote da linguagem estatística R, usada para as análises. *Não se trata de um pacote verdadeiro*, apesar de ter um diretório de código R e um arquivo de definições DESCRIPTION. O objetivo desse mimetismo é facilitar as análises numa plataforma de CI. Um pacote de R é um programa com funções utilizáveis. Não é isso que este(s) caderno(s) é(são). Assim, propositadamente deixe de fora partes imprescindíveis de um pacote, como o NAMESPACE e os manuais.
+
+Na seção a seguir, são mostrados resultados de análises estatísticas concernentes a este caderno aberto de pesquisa em particular. Todos os dados pertinentes a seres humanos são adequadamente desidentificados.
+
+## Análises:
+
+_Dados e código para replicação estão disponíveis no repositório do GitHub do projeto_
+
+_*Fora Bolsonaro*_

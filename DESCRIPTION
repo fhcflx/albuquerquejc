@@ -1,0 +1,9 @@
+Package: albuquerquejc
+Version: alpha
+Date: 2017-12-12
+Title: Monografia da Juliana Costa Albuquerque
+Description: Resultados, análises e documentos relativos à monografia de Juliana Costa Albuquerque.
+Author: Francisco H C Felix <fhcflx@outlook.com>
+Maintainer: Francisco H C Felix <fhcflx@outlook.com>
+License: MIT + file LICENS
+Imports: rmarkdown, pander, DescTools, reshape, VennDiagram

@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+git add .
+git commit -m "new update [skip ci]"
+git push origin HEAD:master
+
+exit
