@@ -3,216 +3,140 @@ pagestyle: empty
 ---
 
 \centering
-![](../fig/monop/image001.jpg){ width=12.5% } 
- 
-  
-
-  
-
+![](../fig/monop/image001.jpg){ width=12.5% }
+&nbsp;   
+&nbsp;  
 UNIVERSIDADE FEDERAL DO CEARÁ  
-
-  
-
-  
-
+&nbsp;  
+&nbsp;  
 FACULDADE DE FARMÁCIA, ODONTOLOGIA E ENFERMAGEM  
-
-  
-
-  
-
+&nbsp;  
+&nbsp;  
 CURSO DE FARMÁCIA  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 JULIANA COSTA ALBUQUERQUE  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 TRATAMENTO OFF LABEL COM PROPRANOLOL EM CRIANÇAS E ADOLESCENTES COM HEMANGIOMA EM UM HOSPITAL PEDIÁTRICO TERCIÁRIO DE FORTALEZA  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 FORTALEZA  
-
-  
-
-  
-
-  
-
-  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 2013  
 \pagebreak
 
 JULIANA COSTA ALBUQUERQUE  
-
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 TRATAMENTO OFF LABEL COM PROPRANOLOL EM CRIANÇAS E ADOLESCENTES COM HEMANGIOMA EM UM HOSPITAL PEDIÁTRICO TERCIÁRIO DE FORTALEZA  
-
-
-  
-
-  
-
-  
-
-  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 ```
 
-								Monografia apresentada ao Curso de Farmácia 
-								da Faculdade de Farmácia, Odontologia e 
-								Enfermagem da Universidade Federal do 
-								Ceará, como requisito parcial para obtenção do 
+								Monografia apresentada ao Curso de Farmácia
+								da Faculdade de Farmácia, Odontologia e
+								Enfermagem da Universidade Federal do
+								Ceará, como requisito parcial para obtenção do
 								Título de Bacharel em Farmácia.
 
-								Orientadora: Profa. Dra. Juvenia Bezerra 
+								Orientadora: Profa. Dra. Juvenia Bezerra
 								Fontenele.
 
-								Coorientador: Francisco Hélder Cavalcante 
+								Coorientador: Francisco Hélder Cavalcante
 								Félix.
 ```
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 FORTALEZA  
-
-  
-
-  
-
-  
-
-  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 2013
 \pagebreak
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 Dados Internacionais de Catalogação na Publicação  
-  
+
 Universidade Federal do Ceará  
-  
+
 Biblioteca de Ciências da Saúde  
-  
-  
-  
+&nbsp;  
+&nbsp;  
+
 ----------------------------------------------
 
 ```
 L71e	Lima, Rayra Aguiar Campos.
-		Eventos adversos da quimioterapia anticâncer em pacientes pediátricos 
-	com tumores do sistema nervoso central: estudo retrospectivo./ 
+		Eventos adversos da quimioterapia anticâncer em pacientes pediátricos
+	com tumores do sistema nervoso central: estudo retrospectivo./
 	Rayra Aguiar Campos Lima. – 2016.
 		60 f.: il.
 
-		Monografia (graduação) – Universidade Federal do Ceará, Faculdade de 
-	Farmácia, Odontologia e Enfermagem, Departamento de Farmácia, 
+		Monografia (graduação) – Universidade Federal do Ceará, Faculdade de
+	Farmácia, Odontologia e Enfermagem, Departamento de Farmácia,
 	Curso de Farmácia, Fortaleza, 2016.
 		Orientação: Profa. Dra. Juvenia Bezerra Fontenele.
 		Coorientação: Francisco Hélder Cavalcante Félix.
 
-		
-		1. Quimioterapia. 2. Efeitos Colaterais e Reações Adversas Relacionados 
+
+		1. Quimioterapia. 2. Efeitos Colaterais e Reações Adversas Relacionados
 	a Medicamentos. 3. Neoplasias Encefálicas. I. Título.
 
 									 CDD 618.0461
 ```
 -------------------------------------------
-
